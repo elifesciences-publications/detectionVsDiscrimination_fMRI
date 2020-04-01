@@ -1,6 +1,9 @@
 # Confidence in Detection and Discrimination
 fMRI project looking at the differences between perceptual detection and discrimination.
 
+### This code is associated with the paper from Mazor et al., "Distinct neural contributions to metacognition for detecting, but not discriminating visual stimuli". eLife, 2020. http://dx.doi.org/10.7554/eLife.53900
+
+
 ## Data
 1. All behavioural data from the 46 participtants is available in BIDS format in 'data/data'.
 2. The analysis scripts use a data structure with all the relevant information: 'data/data_struct.mat'.
